@@ -1,0 +1,13 @@
+#TODO-1 create page
+#TODO-2 create turtle in the mid-bottom and move forward only till top,
+#TODO-3 detect collision of top
+#TODO-4 Write level
+#TODO-5 create cars with different colour on random y axis
+#TODO-6 move car accross page right to left
+#TODO-7 increase level and cars speed
+#TODO-8 detect collision of cars
+#TODO-9 finish the game
+
+
+
+
